@@ -4,6 +4,10 @@
 
 # 2.1.0
 
+## 3.0.0 - 2019-04-11
+
+* Upgrade dependencies [Dimitrios Lytras]
+
 * Accept mixpanel options passed to .init()
 
 # 2.0.0
